@@ -1,0 +1,20 @@
+{
+  "name": "scamshield-ai",
+  "version": "1.0.0",
+  "description": "ScamShield AI - AI-Powered Scam & Phishing Message Analyzer for Hackathon Demo",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "scam-detector",
+    "phishing-analyzer",
+    "gemini-ai",
+    "cybersecurity",
+    "hackathon"
+  ],
+  "author": "",
+  "license": "MIT"
+}

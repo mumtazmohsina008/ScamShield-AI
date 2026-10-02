@@ -1,0 +1,202 @@
+[
+  {
+    "id": "scan_1790933499458_mwvkv",
+    "timestamp": "2026-10-02T09:31:39.458Z",
+    "category": "Job scam",
+    "riskScore": 95,
+    "riskLevel": "CRITICAL",
+    "snippet": "Congratulations! Your profile has been s..."
+  },
+  {
+    "id": "scan_1790930418204_uz2dq",
+    "timestamp": "2026-10-02T08:40:18.204Z",
+    "category": "Benign",
+    "riskScore": 5,
+    "riskLevel": "LOW",
+    "snippet": "Notice for students: The seminar will be..."
+  },
+  {
+    "id": "scan_1790930140634_eyj10",
+    "timestamp": "2026-10-02T08:35:40.634Z",
+    "category": "Credential theft",
+    "riskScore": 94,
+    "riskLevel": "CRITICAL",
+    "snippet": "URGENT from Chase Bank Security: Your ac..."
+  },
+  {
+    "id": "scan_1790929682773_odqby",
+    "timestamp": "2026-10-02T08:28:02.773Z",
+    "category": "Job scam",
+    "riskScore": 95,
+    "riskLevel": "CRITICAL",
+    "snippet": "Congratulations! Your profile has been s..."
+  },
+  {
+    "id": "scan_1790929653760_yhgl6",
+    "timestamp": "2026-10-02T08:27:33.760Z",
+    "category": "Benign",
+    "riskScore": 5,
+    "riskLevel": "LOW",
+    "snippet": "Hi everyone, our college coding club mee..."
+  },
+  {
+    "id": "scan_1790929621710_jkzun",
+    "timestamp": "2026-10-02T08:27:01.710Z",
+    "category": "Fake prize/giveaway",
+    "riskScore": 96,
+    "riskLevel": "CRITICAL",
+    "snippet": "Congratulations! You have been selected ..."
+  },
+  {
+    "id": "scan_1790929585148_0cpjl",
+    "timestamp": "2026-10-02T08:26:25.148Z",
+    "category": "Credential theft",
+    "riskScore": 92,
+    "riskLevel": "CRITICAL",
+    "snippet": "URGENT! Your bank account will be blocke..."
+  },
+  {
+    "id": "scan_1790929303741_4i3u0",
+    "timestamp": "2026-10-02T08:21:43.741Z",
+    "category": "Job scam",
+    "riskScore": 95,
+    "riskLevel": "CRITICAL",
+    "snippet": "Urgent Hiring: Flexible work from home p..."
+  },
+  {
+    "id": "scan_1790929303719_7bkt8",
+    "timestamp": "2026-10-02T08:21:43.719Z",
+    "category": "Fake prize/giveaway",
+    "riskScore": 96,
+    "riskLevel": "CRITICAL",
+    "snippet": "CONGRATULATIONS! You have won a cash rew..."
+  },
+  {
+    "id": "scan_1790929303693_a1wlj",
+    "timestamp": "2026-10-02T08:21:43.693Z",
+    "category": "Credential theft",
+    "riskScore": 94,
+    "riskLevel": "CRITICAL",
+    "snippet": "URGENT from Chase Bank Security: Your ac..."
+  },
+  {
+    "id": "scan_1790929303654_t3ti6",
+    "timestamp": "2026-10-02T08:21:43.654Z",
+    "category": "Benign",
+    "riskScore": 5,
+    "riskLevel": "LOW",
+    "snippet": "Notice for 2nd year students: Tomorrow's..."
+  },
+  {
+    "id": "scan_1790928960877_rcr5r",
+    "timestamp": "2026-10-02T08:16:00.877Z",
+    "category": "Credential theft",
+    "riskScore": 45,
+    "riskLevel": "MEDIUM",
+    "snippet": "Congratulations! Your profile has been s..."
+  },
+  {
+    "id": "scan_1790928882571_pfl52",
+    "timestamp": "2026-10-02T08:14:42.571Z",
+    "category": "Suspicious/unknown",
+    "riskScore": 25,
+    "riskLevel": "LOW",
+    "snippet": "Hi everyone, our college coding club mee..."
+  },
+  {
+    "id": "scan_1790928847407_wmhn6",
+    "timestamp": "2026-10-02T08:14:07.407Z",
+    "category": "Credential theft",
+    "riskScore": 95,
+    "riskLevel": "CRITICAL",
+    "snippet": "Congratulations! You have been selected ..."
+  },
+  {
+    "id": "scan_1790928757697_za5p8",
+    "timestamp": "2026-10-02T08:12:37.697Z",
+    "category": "Credential theft",
+    "riskScore": 70,
+    "riskLevel": "HIGH",
+    "snippet": "URGENT! Your bank account will be blocke..."
+  },
+  {
+    "id": "scan_1790927484614_as7va",
+    "timestamp": "2026-10-02T07:51:24.614Z",
+    "category": "Investment scam",
+    "riskScore": 91,
+    "riskLevel": "CRITICAL",
+    "snippet": "EXCLUSIVE INVITATION: Join our elite Cry..."
+  },
+  {
+    "id": "scan_1790927484584_2qbsa",
+    "timestamp": "2026-10-02T07:51:24.584Z",
+    "category": "Job scam",
+    "riskScore": 82,
+    "riskLevel": "CRITICAL",
+    "snippet": "Hi! I am Sarah from Global Talent HR Sol..."
+  },
+  {
+    "id": "scan_1790927484553_hafl8",
+    "timestamp": "2026-10-02T07:51:24.553Z",
+    "category": "Fake prize/giveaway",
+    "riskScore": 88,
+    "riskLevel": "CRITICAL",
+    "snippet": "CONGRATULATIONS!! Your mobile number has..."
+  },
+  {
+    "id": "scan_1790927484529_pqnaa",
+    "timestamp": "2026-10-02T07:51:24.529Z",
+    "category": "Credential theft",
+    "riskScore": 94,
+    "riskLevel": "CRITICAL",
+    "snippet": "URGENT from Chase Bank Security: Your ac..."
+  },
+  {
+    "id": "scan_1790927067170_upp11",
+    "timestamp": "2026-10-02T07:44:27.170Z",
+    "category": "Credential theft",
+    "riskScore": 94,
+    "riskLevel": "CRITICAL",
+    "snippet": "URGENT from Chase Bank Security: Your ac..."
+  },
+  {
+    "id": "seed-1",
+    "timestamp": "2026-10-02T07:19:01.760Z",
+    "category": "Credential theft",
+    "riskScore": 94,
+    "riskLevel": "CRITICAL",
+    "snippet": "URGENT from Chase Bank Security: Your..."
+  },
+  {
+    "id": "seed-2",
+    "timestamp": "2026-10-02T06:36:01.763Z",
+    "category": "Fake prize/giveaway",
+    "riskScore": 88,
+    "riskLevel": "CRITICAL",
+    "snippet": "CONGRATULATIONS!! Your mobile number..."
+  },
+  {
+    "id": "seed-3",
+    "timestamp": "2026-10-02T05:24:01.763Z",
+    "category": "Job scam",
+    "riskScore": 82,
+    "riskLevel": "CRITICAL",
+    "snippet": "Hi! I am Sarah from Global Talent HR..."
+  },
+  {
+    "id": "seed-4",
+    "timestamp": "2026-10-02T04:14:01.763Z",
+    "category": "Delivery/package scam",
+    "riskScore": 78,
+    "riskLevel": "HIGH",
+    "snippet": "USPS: Your package #US8912 could not..."
+  },
+  {
+    "id": "seed-5",
+    "timestamp": "2026-10-02T01:24:01.763Z",
+    "category": "Suspicious/unknown",
+    "riskScore": 18,
+    "riskLevel": "LOW",
+    "snippet": "Hey Mom, what time is dinner tonight?..."
+  }
+]
