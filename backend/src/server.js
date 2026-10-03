@@ -39,7 +39,7 @@ app.use('/api/', apiLimiter);
 
 // API Routes
 app.use('/api', healthRouter);
-app.use('/api/analyze', analyzeRouter);
+app.use(['/api/analyze', '/analyze'], analyzeRouter);
 app.use('/api/dashboard', dashboardRouter);
 
 // Root route
